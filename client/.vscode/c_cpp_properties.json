@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/libs",
+                "/usr/include",
+                "/usr/local/include",
+                "/usr/include/c++/12.2.0",
+                "/usr/include/c++/12.2.0/x86_64-pc-linux-gnu",
+                "/usr/include/linux",
+                "/usr/include/c++/12.2.0/tr1"
+            ],
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
